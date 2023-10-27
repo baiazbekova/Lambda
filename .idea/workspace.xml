@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c46feec3-ae87-4e78-9609-f55f8c7e5dd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OrangeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OrangeTest.java" afterDir="false" />
+    <list default="true" id="c46feec3-ae87-4e78-9609-f55f8c7e5dd1" name="Changes" comment="firstcommit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OrangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -55,6 +49,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrangeTest" />
+      <module name="Lambda" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrangeTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,11 +71,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698420341374</updated>
-      <workItem from="1698420342367" duration="1926000" />
+      <workItem from="1698420342367" duration="2438000" />
     </task>
+    <task id="LOCAL-00001" summary="firstcommit">
+      <option name="closed" value="true" />
+      <created>1698429570598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698429570598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="firstcommit">
+      <option name="closed" value="true" />
+      <created>1698429584248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698429584248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="firstcommit">
+      <option name="closed" value="true" />
+      <created>1698429598925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698429598925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstcommit" />
   </component>
 </project>

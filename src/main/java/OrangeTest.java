@@ -11,7 +11,15 @@ public class OrangeTest {
         inventory.add(Orange.builder().color(Color.RED).build());
         inventory.add(Orange.builder().weight(50).build());
 
+        OrangeFormatter simpleFormatter = orange -> "An orange of "+ orange.getWeight()+ "g.";
+        //prettyPrintOrange(inventory, simpleFormatter);
+        prettyPrintOrange(inventory, orange ->"An orange of "+ orange.getWeight()+ "g." );
 
+        OrangeFormatter fancyFormatter = orange -> {
+            String characteristic = orange.getWeight()>150 ? "Heavy" : "Light";
+            return "A" + characteristic + " "+ orange.getColor() + " orange";
+        };
+        prettyPrintOrange(inventory, fancyFormatter);
 
     }
 
